@@ -1,0 +1,20 @@
+D:\Code-projects\c#\user info dump\User Info dump\bin\Release\netcoreapp3.1\User Info dump.exe
+D:\Code-projects\c#\user info dump\User Info dump\bin\Release\netcoreapp3.1\User Info dump.deps.json
+D:\Code-projects\c#\user info dump\User Info dump\bin\Release\netcoreapp3.1\User Info dump.runtimeconfig.json
+D:\Code-projects\c#\user info dump\User Info dump\bin\Release\netcoreapp3.1\User Info dump.runtimeconfig.dev.json
+D:\Code-projects\c#\user info dump\User Info dump\bin\Release\netcoreapp3.1\User Info dump.dll
+D:\Code-projects\c#\user info dump\User Info dump\bin\Release\netcoreapp3.1\User Info dump.pdb
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.csproj.AssemblyReference.cache
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\App.g.cs
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump_MarkupCompile.cache
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump_MarkupCompile.lref
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\MainWindow.baml
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.g.resources
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.AssemblyInfoInputs.cache
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.AssemblyInfo.cs
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.csproj.CoreCompileInputs.cache
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.csproj.Fody.CopyLocal.cache
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.dll
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.pdb
+D:\Code-projects\c#\user info dump\User Info dump\obj\Release\netcoreapp3.1\User Info dump.genruntimeconfig.cache

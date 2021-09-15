@@ -1,0 +1,42 @@
+﻿<Window x:Class="User_Info_dump.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:User_Info_dump"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1200">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.ColumnSpan="2" Grid.RowSpan="5">
+            <Button Content="Dump accounts local" Click="Dump_Local_accounts" Margin="0,10,0,10"/>
+            <Button Content="Dump accounts domain" Click="Dump_Domain_accounts" Margin="0,10,0,10"/>
+            <Button Content="save accounts to file" Click="Save_Accounts_To_File_Button" Margin="0,10,0,10"/>
+            <Button Content="Dump account info local" Click="Dump_Account_Info_local" Margin="0,10,0,10"/>
+            <Button Content="Dump account info domain" Click="Dump_Account_Info_domain" Margin="0,10,0,10"/>
+            <Button Content="Save dumped account info to file" Click="Save_Dumped_Account_Info_To_File_button" Margin="0,10,0,10"/>
+        </StackPanel>
+
+        <TextBlock x:Name="result_output" Grid.Row="0" Grid.RowSpan="4" Grid.Column="4" Grid.ColumnSpan="3"/>
+        <TextBlock x:Name="accounts_list_text_block" Grid.Column="4" Grid.ColumnSpan="3" Grid.Row="4" Grid.RowSpan="2"/>
+    </Grid>
+</Window>
